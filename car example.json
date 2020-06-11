@@ -1,0 +1,36 @@
+{
+    "registration": "s312t4",
+    "model": "Fiesta",
+    "colour": "Red",
+    "make_Id": "Ford",
+    "tyres": [
+        {
+            "brandName": "Round",
+            "wear": 20,
+            "bolts": [
+                {
+                    "boltName": "Bob",
+                    "boltTightness": 100
+                },
+                {
+                    "boltName": "Phil",
+                    "boltTightness": 90
+                }
+            ]
+        },
+        {
+            "brandName": "Square",
+            "wear": 20,
+            "bolts": [
+                {
+                    "boltName": "Bob",
+                    "boltTightness": 100
+                },
+                {
+                    "boltName": "Phil",
+                    "boltTightness": 90
+                }
+            ]
+        }
+    ]
+}
